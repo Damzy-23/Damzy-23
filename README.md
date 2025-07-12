@@ -10,6 +10,8 @@
 
 🗣️ A sentiment analysis tool that classifies text as positive, negative, or neutral.
 
+🚲 Developed a complete IoT e-Bike monitoring system in C++ featuring GPS simulation, real-time UDP communication, web visualization, and automated deployment for cloud environments.
+
 🌱 The Sustainable Living Assistant app, which helps users adopt eco-friendly habits by providing personalized tips and tracking sustainable practices.
 
 🔍 Currently exploring: Python, C++, SQL, machine learning models, and software development best practices.
