@@ -1,4 +1,4 @@
-👋 Hi, I'm Oluwadamilola Onasanya — a second-year Computer Science with Artificial Intelligence student at the University of the West of England.
+👋 Hi, I'm Oluwadamilola Onasanya — a third-year Computer Science with Artificial Intelligence student at the University of the West of England.
 
 💻 I'm passionate about using tech to solve real-world problems, especially in AI, automation, and data-driven applications.
 
