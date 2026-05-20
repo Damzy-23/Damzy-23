@@ -148,10 +148,10 @@ class Damilola:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Damzy-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=ffffff&rank_icon=github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Damzy-23&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Damzy-23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&icon_color=2563EB&text_color=ffffff&rank_icon=github&cache_seconds=0" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Damzy-23&theme=tokyonight&hide_border=true&background=0D1117&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&date_format=Y-m-d" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damzy-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=ffffff&langs_count=8" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damzy-23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2563EB&text_color=ffffff&langs_count=8&cache_seconds=0" width="48%" />
 
 </div>
 
