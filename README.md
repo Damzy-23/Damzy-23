@@ -24,7 +24,7 @@
 class Damilola:
     name       = "Oluwadamilola O. Onasanya"
     location   = "Bristol, UK 🇬🇧"
-    university = "University of the West of England — BSc CS with AI (Predicted First Class)"
+    university = "University of the West of England — BSc CS with AI (First Class)"
     year       = "Final Year (2023–2026)"
 
     interests  = ["Agentic AI", "Machine Learning", "Full-Stack Engineering",
